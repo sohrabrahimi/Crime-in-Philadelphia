@@ -10,3 +10,11 @@ and 10 year's crime data. Statistical methods, such as regression discontinuity
 analysis, are applied on the block group level. Our analyses show that Airbnb
 does not affect crime in a pre-specified neighborhood of the unit.
 
+# Report
+
+You can find the full report in Airbnb_and_Crime.pdf file. 
+
+# Code
+
+Codes are stored in two separate files: "data_cleaning" which includes the data clieaning process
+and : "
