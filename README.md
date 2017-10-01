@@ -12,9 +12,9 @@ does not affect crime in a pre-specified neighborhood of the unit.
 
 # Report
 
-You can find the full report in Airbnb_and_Crime.pdf file. 
+You can find the full report in Airbnb_and_Crime.pdf file. Crime maps have been provided separately as JPG files. 
 
 # Code
 
-Codes are stored in two separate files: "data_cleaning" which includes the data clieaning process
-and : "
+Codes are stored in three separate files: "data_cleaning.R" which includes the data clieaning process
+The statistical models are in "analysis.R" file. The maps are in "crime_in_phily.R" file. 
